@@ -1,6 +1,6 @@
 ---
 article: false
-title: LearnData 开源笔记
+title: 笔记
 icon: note
 ---
 
@@ -9,3 +9,5 @@ icon: note
 开始转移笔记到这里
 
 折腾
+
+有了codespace，很好用。
