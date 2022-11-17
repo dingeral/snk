@@ -33,11 +33,11 @@ if (screen.width >= 768) {
 	]).then(() => {
 		initWidget({
 			waifuPath: live2d_path + "waifu-tips.json",
-			//apiPath: "https://live2d.fghrsh.net/api/",
+			apiPath: "https://live2d.fghrsh.net/api/",
 			//cdnPath: "https://fastly.jsdelivr.net/gh/fghrsh/live2d_api/"
 			//使用 api 才能完美换装
 			// apiPath: "https://snk.dingeral.ml/live2d-widget/live2d_api/"
-			cdnPath: live2d_path + "live2d_api/"
+			// cdnPath: live2d_path + "live2d_api/"
 		});
 	});
 }
