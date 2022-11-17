@@ -1,4 +1,8 @@
-# 100 个技巧让生活更美好
+---
+article: false
+title: 100 个技巧让生活更美好
+icon: check
+---
 
 ## 财产
 
