@@ -5,28 +5,28 @@ export default sidebar([
   "/DailyRoutine",
   "/Fitness",
   "/Read",
-  {
-    text: "🚀 基础工程",
-    icon: "",
-    prefix: "/基础工程/",
-    link: "",
-    collapsible: true,
-    children: [
-      "README.md",
-      {
-        text: "Basic",
-        icon: "emmet",
-        collapsible: true,
-        children: ["Markdown.md", "Electron.md", "AutoHotkey.md", "Regex.md"],
-      },
-      {
-        text: "FrondEnd",
-        icon: "app",
-        collapsible: true,
-        children: ["Vue.md", "HTML.md", "JavaScript.md", "Python.md"],
-      },
-    ],
-  },
+  // {
+  //   text: "🚀 基础工程",
+  //   icon: "",
+  //   prefix: "/基础工程/",
+  //   link: "",
+  //   collapsible: true,
+  //   children: [
+  //     "README.md",
+  //     {
+  //       text: "Basic",
+  //       icon: "emmet",
+  //       collapsible: true,
+  //       children: ["Markdown.md", "Electron.md", "AutoHotkey.md", "Regex.md"],
+  //     },
+  //     {
+  //       text: "FrondEnd",
+  //       icon: "app",
+  //       collapsible: true,
+  //       children: ["Vue.md", "HTML.md", "JavaScript.md", "Python.md"],
+  //     },
+  //   ],
+  // },
   {
     text: "🧰 人的基建",
     icon: "",
@@ -43,14 +43,14 @@ export default sidebar([
     collapsible: true,
     children: "structure",
   },
-  // {
-  //   text: "🏗️ 网站部署",
-  //   icon: "",
-  //   prefix: "/deploy/",
-  //   link: "",
-  //   collapsible: true,
-  //   children: "structure",
-  // },
+  {
+    text: "🏗️ 基础工程",
+    icon: "",
+    prefix: "/基础工程/",
+    link: "",
+    collapsible: true,
+    children: "structure",
+  },
   // {
   //   text: "🐋 Linux 服务",
   //   icon: "",
