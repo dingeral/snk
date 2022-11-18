@@ -41,6 +41,17 @@ export default defineUserConfig({
     searchPlugin({
       // 你的选项
     }),
+    // mdEnhance({
+    //   // 启用图片懒加载
+    //   imageLazyload: true,
+    //   // 启用图片标记
+    //   imageMark: true,
+    //   // 启用图片大小
+    //   imageSize: true,
+    //   // 启用图片标题
+    //   imageTitle: true,
+    // }),
+
 
     // 谷歌分析 ID
     // googleAnalyticsPlugin({

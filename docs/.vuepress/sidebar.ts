@@ -52,7 +52,7 @@ export default sidebar([
     children: "structure",
   },
   {
-    text: "🐋 图片",
+    text: "🧩 图片",
     icon: "",
     prefix: "/image/",
     link: "",

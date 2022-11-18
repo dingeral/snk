@@ -51,7 +51,7 @@ export default hopeTheme({
     right: ["Repo", "Outlook"],
   },
   // 是否在向下滚动时自动隐藏导航栏
-  navbarAutoHide: "always",
+  // navbarAutoHide: "always",
 
   // sidebar
   sidebar: sidebar,
@@ -67,7 +67,7 @@ export default hopeTheme({
   // 主题功能选项：https://vuepress-theme-hope.github.io/v2/zh/config/theme/feature.html
   blog: {
     articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
-    name: "清顺",
+    name: "snk",
     avatar: "/avatar_self.webp",
     description: "记录",
     intro: "/intro.html",
