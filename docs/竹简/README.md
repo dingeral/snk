@@ -1,7 +1,7 @@
 ---
 article: false
 title: 目录
-icon: check
+icon: autumn
 ---
 
 - [100 Tips for a Better Life](/2022/100%20Tips%20for%20a%20Better%20Life.md)
