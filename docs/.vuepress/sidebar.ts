@@ -51,14 +51,14 @@ export default sidebar([
     collapsible: true,
     children: "structure",
   },
-  // {
-  //   text: "🐋 Linux 服务",
-  //   icon: "",
-  //   prefix: "/services/",
-  //   link: "",
-  //   collapsible: true,
-  //   children: "structure",
-  // },
+  {
+    text: "🐋 图片",
+    icon: "",
+    prefix: "/image/",
+    link: "",
+    collapsible: true,
+    children: "structure",
+  },
   // {
   //   text: "🪟 系统问题",
   //   icon: "",
