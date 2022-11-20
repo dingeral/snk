@@ -51,6 +51,9 @@ icon: notice
 - 卡号多是回收的，介意勿买
 - [爱吾线报](https://25xianbao.com/)
 
+### 耳机
+
+- [NICEHCK 原道无迹MX500耳机3.5mm平头塞 3.5mm无迹黑色 无麦](https://item.jd.com/10049954986301.html)
 ## 合租
 
 - 网易云 40~45 / 年
