@@ -59,14 +59,14 @@ export default sidebar([
     collapsible: true,
     children: "structure",
   },
-  // {
-  //   text: "🪟 系统问题",
-  //   icon: "",
-  //   prefix: "/windows/",
-  //   link: "",
-  //   collapsible: true,
-  //   children: "structure",
-  // },
+  {
+    text: "✍ 写",
+    icon: "",
+    prefix: "/write/",
+    link: "",
+    collapsible: true,
+    children: "structure",
+  },
   // {
   //   text: "🛖 生活",
   //   icon: "",
