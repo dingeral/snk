@@ -27,10 +27,18 @@ export default sidebar([
   //     },
   //   ],
   // },
+  // {
+  //   text: "🧰 人的基建",
+  //   icon: "",
+  //   prefix: "/人的基建/",
+  //   link: "",
+  //   collapsible: true,
+  //   children: "structure",
+  // },
   {
-    text: "🧰 人的基建",
+    text: "🏳️‍🌈 基础工程",
     icon: "",
-    prefix: "/人的基建/",
+    prefix: "/基础工程/",
     link: "",
     collapsible: true,
     children: "structure",
@@ -44,9 +52,9 @@ export default sidebar([
     children: "structure",
   },
   {
-    text: "🏗️ 基础工程",
+    text: "✍ 写",
     icon: "",
-    prefix: "/基础工程/",
+    prefix: "/write/",
     link: "",
     collapsible: true,
     children: "structure",
@@ -59,14 +67,7 @@ export default sidebar([
     collapsible: true,
     children: "structure",
   },
-  {
-    text: "✍ 写",
-    icon: "",
-    prefix: "/write/",
-    link: "",
-    collapsible: true,
-    children: "structure",
-  },
+
   // {
   //   text: "🛖 生活",
   //   icon: "",

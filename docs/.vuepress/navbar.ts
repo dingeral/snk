@@ -4,13 +4,13 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   { text: "主页", icon: "edit", link: "/" },
   {
-    text: "代码",
+    text: "book",
     icon: "code",
     prefix: "/",
     children: [
-      "code/Markdown",
-      "code/AutoHotkey",
-      "code/Electron",
+      "books/Markdown",
+      // "books/AutoHotkey",
+      // "books/Electron",
       {
         text: "页面开发",
         icon: "vue",
